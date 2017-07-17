@@ -1,0 +1,92 @@
+
+/* root element for accordion. decorated with rounded borders and gradient background image */
+#accordion {
+	
+	width: 200px;
+	border:1px solid #F6A21C;	
+	-background:#fff;
+	-moz-border-radius:7px;
+	
+}
+
+/* accordion header */
+#accordion h2 {
+	background:rgba(223,43,142,.7);
+	margin:0;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	padding:5px 10px;
+	font-size:14px;
+	font-weight:bold;
+	border:1px solid #fff;
+	border-bottom:1px solid #ddd;
+	cursor:pointer;
+	-moz-border-radius:5px;		
+}
+
+/* currently active header */
+#accordion h2.current {
+	cursor:default;
+	background-color:#FFFFFF;
+	border:solid 1px #CCCCCC;
+	color:#E0549D;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:17px;
+	-moz-border-radius:7px;
+	font-weight:bold;
+	
+}
+
+/* accordion pane */
+#accordion div.pane {
+	border:1px solid #fff;
+	border-width:0 2px;
+	display:none;
+	height:180px;
+	padding:10px;
+	color:#fff;
+	font-size:12px;
+	background:rgba(246,142,28,.5);
+}
+
+/* a title inside pane */
+#accordion div.pane h3 {
+	font-weight:normal;
+	margin:0 0 -5px 0;
+	font-size:16px;
+	color:#ccc;
+}
+
+
+/* end tab accordion styling */
+
+body {
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+}
+
+/* get rid of those system borders being generated for A tags */
+a:active {
+  outline:none;
+}
+
+:focus {
+  -moz-outline-style:none;
+}
+
+.link{
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:16px;
+text-decoration:none;
+color:#0033FF;
+}
+
+.link:hover {
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:20px;
+text-decoration:underline;
+color:#666666;
+cursor:pointer;
+}
+
+
+

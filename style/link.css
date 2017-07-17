@@ -1,0 +1,14 @@
+/* CSS Document */
+.language{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:18px;color:#CE2B88;text-decoration:none;}
+.language:hover{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:19px;color:#F2C200;text-decoration:underline;}
+
+
+
+.title{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:24px; color:#FFFFFF;text-decoration:none;}
+.title:hover{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:24px; color:#CCCCCC;text-decoration:none;}
+
+.texkotak{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:13px; color:#FF9900; text-decoration:none;font-weight:bold;}
+.texkotak:hover{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:13px; color:#666666; text-decoration:none;font-weight:bold;}
+
+.texkotakalert{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:15px; color:#990000; text-decoration:none;font-weight:bold;}
+.texkotakalert:hover{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:15px; color:#333333; text-decoration:underline;font-weight:bold;}

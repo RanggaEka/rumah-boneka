@@ -1,0 +1,70 @@
+/* CSS Document */
+
+
+#menuku ul li:hover ul,
+#menuku ul a:hover ul{
+background: #00B1F7 repeat-x;
+visibility:visible;
+float: none;
+}
+#menuku li a {
+padding-top: 7px;
+background: #00A3E3;
+height: 0px;
+width: 0px;
+display: none;
+border: 0px;
+color: #ffffff;
+font-weight: bold;
+text-decoration: none;
+text-align: center;
+vertical-align: middle;
+}
+#menuku li:hover li,
+#menuku a:hover{
+padding-top: 7px;
+background: #00A3E3;
+visibility:visible;
+height: 0px;
+width: 0px;
+display: none;
+border: 0px;
+color: #ffffff;
+font-weight: bold;
+text-decoration: none;
+text-align: center;
+vertical-align: middle;
+}
+</style>
+<style type="text/css">
+#gb{
+position:fixed;
+left:0px;
+bottom:2px;
+z-index:+1000;
+}
+* html #gb{position:fixed;}
+
+.gbtab{
+height:150px;
+width:30px;
+float:left;
+cursor:pointer;
+}
+.gbcontent{
+float:left;
+border:3px solid rgba(20,20,60,.4);
+-moz-border-radius-topleft: 40px;
+background: rgba(20,20,60,.2);
+padding:1px;
+position:fixed;
+right:-25px;
+bottom:-11px;
+}x;
+padding: 0px;
+
+#menuku ul {
+list-style: none;
+margin: 0px;
+paddi
+{

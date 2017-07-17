@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+#link a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFCC66;
+	text-decoration: none;
+	display: block;
+}
+#link a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF6633;
+	text-decoration: none;
+	background-color: #CCCCCC;
+	display: block;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #999999;
+	border-left-color: #666666;
+	margin-bottom: 1px;
+	padding-bottom: 1px;
+}.login {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF9933;
+	text-decoration: none;
+}
+.loginjudul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FF9933;
+	text-decoration: none;
+	font-weight: bold;
+}
+.textbox {
+	background-image: url(../include/images/bg_header.jpg);
+	display: block;
+}
+.boxLogin {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #999999;
+	text-decoration: none;
+	background-position: center;
+}

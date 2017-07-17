@@ -1,0 +1,5 @@
+.project
+.externalToolBuilders/
+.DS_Store
+.settings/
+build.xml

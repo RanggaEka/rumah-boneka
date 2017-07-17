@@ -1,0 +1,359 @@
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+}
+#container {
+	width: 940px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: auto;
+}
+#banner {
+	background-image: url(../images/bg_body.jpg);
+	background-repeat: repeat-y;
+	background-position: 0px 0px;
+	height: 252px;
+	width: 940px;
+	margin: 0px;
+	padding: 0px;
+}
+#banner .navigation {
+	padding-top: 200px;
+	margin: 0px;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px top; 
+}
+
+#banner .navigation ul {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	background-color: #F0F;
+	border: 1px solid #96F;
+	height: 50px;
+}
+#banner .navigation ul li {
+	float: left;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #000;
+	list-style-type: none;
+	line-height: 50px;
+}
+#banner .navigation ul li a {
+	padding-right: 30px;
+	padding-left: 30px;
+	text-decoration: none;
+	float: left;
+	color: #000;
+	font-weight: bold;
+}
+#container #banner .navigation ul li a:hover {
+	color: #FFF;
+}
+
+#main {
+	background-image: url(../images/bg_body.jpg);
+	background-repeat: repeat-y;
+	background-position: 0px 0px;
+	overflow: auto;
+	margin: 0px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#main #left {
+	width: 180px;
+	float: left;
+}
+
+
+#main #mid {
+	width: 500px;
+	float: left;
+	overflow: auto;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#main #right {
+	float: left;
+	width: 180px;
+}
+.box {
+	padding: 0px;
+	display: block;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+.box .head {
+	display: block;
+	line-height: 30px;
+	padding-right: 5px;
+	padding-left: 5px;
+	background-color: #CF0;
+	font-weight: bold;
+	color: #000;
+	font-size: 14px;
+	border: 1px solid #99C;
+	text-decoration: blink;
+}
+.box ul  {
+	margin: 0px;
+	padding: 0px;
+	display: block;
+}
+.box ul li {
+	display: block;
+	line-height: 24px;
+	text-decoration: none;
+	padding-right: 5px;
+	padding-left: 5px;
+	list-style-type: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #F1F1F1;
+}
+.box ul li a {
+	text-decoration: none;
+	color: #000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.box ul li a:hover {
+	color: #666;
+}
+.box .head2 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	font-weight: bold;
+	color:#6E6E6E;
+	margin: 0px;
+	display: block;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #333;
+}
+.box .head3 {
+	display: block;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #900;
+	margin-top: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666;
+}
+.box .head3 a {
+	text-decoration: none;
+	color: #2098FA;
+}
+.box .head3 a:hover {
+	color: #FAB920;
+}
+.box .harga {
+	display: block;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color: #F00;
+}
+.box .beli {
+	display: block;
+	font-weight: bold;
+	line-height: 25px;
+}
+.box .beli a {
+	text-decoration: none;
+	color: #09F;
+	font-size: 12px;
+}
+.box .beli a:hover {
+	text-decoration: underline;
+}
+.box .isi {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	display: block;
+	font-size: 12px;
+	line-height: 18px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.box .isi table tr td.new {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border: 1px dotted #CCC;
+}
+.box .isi table tr td.new img {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin: 5px;
+	padding: 5px;
+	width: 100px;
+	height: 100px;
+}
+.box .isi table tr td.product {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666;
+}
+.box .isi table tr td.product img {
+	margin: 5px;
+	padding: 5px;
+	width: 100px;
+	height: 100px;
+}
+.box .isi form table tr td {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.box .isi form table tr td.cart {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	line-height: 30px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666;
+}
+.box .isi table tr td.cart {
+	line-height: 30px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666;
+}
+
+.box .isi form table tr td.link {
+	line-height: 30px;
+	font-weight: bold;
+	text-align: center;
+	font-size: 14px;
+	padding-top: 10px;
+}
+.box .isi form table tr td.link a {
+	text-decoration: none;
+	color: #C00;
+}
+.box .isi form table tr td.link a:hover {
+	text-decoration: underline;
+}
+
+.box .isi form table tr td input {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	width: 200px;
+	height: 24px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	border: 1px solid #666;
+	background-color: #FFF;
+}
+.box .isi form table tr td .button {
+	font-weight: bold;
+	background-color: #09F;
+	color: #FFF;
+	width: 80px;
+	cursor: pointer;
+}
+.box .isi form table tr td .jumlah  {
+	width: 30px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.box .isi form table tr td.total {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: right;
+	line-height: 30px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999;
+}
+.box .isi table tr td.total {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: right;
+	line-height: 30px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999;
+}
+
+.box .isi form table tr td.link .image {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	height: 30px;
+	width: 100px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+th {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	line-height: 30px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999;
+	background-color: #F0F0F0;
+}
+.box form table tr.login td {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 25px;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 12px;
+}
+.box form table tr.login td input {
+	width: 150px;
+	height: 25px;
+	border: 1px solid #666;
+	background-color: #CCC;
+}
+.box form table tr.login td .button {
+	width: 80px;
+	background-color: #CF0;
+	font-weight: bold;
+	border: 1px solid #00C;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.box form table tr.login td .button:hover {
+	background-color:#CC0066;
+}
+
+
+
+
+#footer {
+	background-image: url(../images/footer.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 100px;
+	margin: 0px;
+	padding: 0px;
+}

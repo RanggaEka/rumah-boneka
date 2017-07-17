@@ -1,0 +1,188 @@
+/* CSS Document */
+.bottom_layer{
+background:#589AF1;
+border:1px solid #589AF1;
+-moz-border-radius:0 0 20px 20px;
+}
+.bottom_layere{
+background:#0484A9;
+border:1px solid #3CDAE5;
+-moz-border-radius:0 0 20px 20px;
+}
+
+.divbox{
+padding:9px 3px 3px 3px;
+background:#589AF1;
+-moz-border-radius: 5px 5px 0 0;
+height:20px;
+}
+.divbox:hover,.divbox:active{
+background:#FDAE36;
+}
+
+
+.divbox_t{
+padding:1px 1px 1px 1px;
+background:#FFFFFF;
+height:10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+}
+.divbox_t:hover{
+background:#EDA341;
+}
+
+
+.a{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+font-weight:bold;
+text-decoration:none;
+}
+.text-title{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#589AF1;
+font-weight:bold;
+}
+.text-b{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#589AF1;
+font-weight:bold;
+text-decoration:none;
+}
+.text-b:hover{
+text-decoration:underline;
+}
+
+.text-bq{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+.text-bq:hover{
+color:#0093D9;
+}
+
+.menu{
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#333333;
+text-decoration:none;
+}
+.menu:hover{
+text-decoration:underline;
+color:#FFFFFF;
+}
+
+.text-bs{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#589AF1;
+font-weight:bold;
+text-decoration:none;
+}
+.other
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#999999;
+}
+.other_qq
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#333333;
+}
+.other_indi
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#333333;
+}
+.o
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+}
+.button
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFFFFF;
+background:#3387F5;
+border:1px solid #CCCCCC;
+-moz-border-radius:5px;
+}
+
+.div_right{
+display:block;
+background:rgba(88,154,241,.9);
+position:fixed;
+top:25px;
+border:1px solid rgba(88,154,241,.9);
+-moz-border-radius:10px 0 0 10px ;
+}
+.a-r{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#FFFFFF;
+font-weight:bold;
+text-decoration:none;
+}
+.a-r:hover{
+text-decoration:underline;
+}
+.white{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:14px;color:#FFFFFF;font-weight:bold; text-decoration:none}
+.judul-admin{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:22px;color:#589AF1;text-decoration:none;}
+.judul-admin2{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:19px;color:#589AF1;text-decoration:none;}
+
+.detail-seleksi{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#990000;
+text-decoration:none;
+}
+.detail-seleksi:hover{
+color:#333333;
+text-decoration:underline;
+}
+.list-name{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#666666;
+background:#DBD9D9;
+font-weight:bold;
+border:1px solid #FFFFFF;
+-moz-border-radius:0 10px 10px 0;
+padding-left:5px;
+}
+.list-school{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#589AF1;
+}
+.list-grade{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#AA0713;
+
+}
+.cell-pad{
+background:#666666;
+border:1px solid #FFFFFF;
+padding-left:5px;
+color:#FFFFFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+-moz-border-radius:8px 8px 0 0;
+}
+
+.ok_ton{
+background:url(../icon/Free-web-icons/64x64/arrow-right.png);  height:53px; width:60px;
+border:1px solid #FFFFFF; -moz-border-radius:6px; font-family:Verdana, Arial, Helvetica, sans-serif;font-size:12px;color:#FFFFFF;font-weight:bold; vertical-align:bottom;
+}
+
+.title-text{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:18px;color:#666666;font-weight:bolder;}
+

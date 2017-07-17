@@ -1,0 +1,43 @@
+
+	 #divTrigger a:link,#divTrigger a:visited{
+	 	text-decoration: none; /* hilangkan garis bawah pada link */
+	 	margin:4px 0px; /* memberi jarak antar link */
+	 	padding: 1px 5px; /* menjadikan link seperti kotak */
+	 	border: 1px solid #DC599F;
+	    background-color: #FFFFFF;
+	    color: #DC599F;
+		border-radius : 5px;
+		display:none;
+		visibility:hidden;
+	 }
+	 /* link yang dilalui oleh mouse dan element dengan class='selected' akan mempunyai efek yang sama */
+	 #divTrigger a:hover,#divTrigger a:active,.selected{ 
+	    background-color: #0066FF;
+	    color: #FFF;
+		display:none;
+		visibility:hidden;
+	 }
+	 #divContent{
+	 	margin-top:4px;
+	 	width: 100%;
+	 	height: 100%;
+	 	padding: 4px;
+		font-size:13px;
+		color:#DC599F;
+		-moz-border-radius : 8px;
+		border: 2px solid #DC599F;
+		
+	 }
+	 #divContent div{ 
+	 	/* semua div di dalam element dengan id='divContent' akan di sembunyikan sementara */
+	 	display:none
+	 }	
+	 .title{
+	 	font-size: 16px;
+	 	font-weight: bold;
+	 	color: #333333;
+	 	text-decoration: none;
+	 	margin-bottom: 1px;
+	 	display:block;
+		
+	 } 

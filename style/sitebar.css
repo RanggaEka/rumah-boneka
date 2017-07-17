@@ -1,0 +1,14 @@
+/* CSS Document */
+
+#body_right{
+position:fixed;
+right:-196px;
+top:50px;
+
+}
+#body_right:hover{
+right:-5px;
+}
+#b-shoutbox{
+border:1px solid #999999;
+}

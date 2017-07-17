@@ -1,0 +1,14 @@
+/* CSS Document */
+
+.body { background:rgba(223,43,142,.7);border:3px solid #FFFFFF;-moz-border-radius:8px;font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:25px;color:#FFFFFF;font-weight:bold;}
+.textindex{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:3mm;color:#D2274B;}
+.tbllogin{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:5mm;color:#E23046;}
+.button{background:rgba(223,43,142,.6);-moz-border-radius:9px; font-family:Geneva, Arial, Helvetica, sans-serif;color:#FFFFFF;font-weight:bold;}
+
+
+/*indexother */
+.indexdll{ font-family:Geneva, Arial, Helvetica, sans-serif;font-size:14px;color:#CC9900;border:2px solid #CC00CC;-moz-border-radius:6px;text-decoration:none;}
+#indexdll:hover{ font-family:Geneva, Arial, Helvetica, sans-serif;font-size:14px;color:#999999;border:2px solid #CC00CC;-moz-border-radius:6px;text-decoration:underline;}
+.judul{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:20px;color:#CC9900;font-weight:bolder;}
+.judulgede{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:30px;color:#CC9900;font-weight:bolder;}

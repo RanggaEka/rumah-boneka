@@ -1,0 +1,18 @@
+/* CSS Document */
+
+.text{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:18px;color:#FF9900;font-weight:bold;}
+.textkecil{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:12px;color:#FF9900;font-weight:bold;}
+.textsedang{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:14px;color:#FF9900;font-weight:bold;}
+.textsedangatas{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:14px;color:#FFFFFF;font-weight:bold;}
+.textsedangabu{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:16px;color:#333333;font-weight:bold;}
+.textsedangabukecil{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:12px;color:#333333;font-weight:bold;}
+.statusatas{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:30px;color:#FF9900;}
+
+
+.textboxlogin{border:1px solid #0093D9; border-radius:3px; width:260px; height:23px;font-family:Verdana, Arial, Helvetica, sans-serif;; font-size:13px; color:#333333;}
+.textboxlogin2{border:1px solid #0093D9; border-radius:3px; width:260px; height:100px;font-family:Verdana, Arial, Helvetica, sans-serif;; font-size:13px; color:#333333;}
+
+.kotakprofil{width:400px; height:75px; font-family:Geneva, Arial, Helvetica, sans-serif; font-size:20px; color:#333333;}
+.boxstatus{background:rgba(246,142,28,.5); border:1px solid rgba(223,100,0,.9); border-radius:6px;}
+.boxstatustini{background:#FFFFFF; border:1px solid rgba(223,100,0,.7); border-radius:6px;}
+.boxstatusview{background:#FFFFFF; border:1px solid rgba(223,100,0,.9); border-radius:6px;}
